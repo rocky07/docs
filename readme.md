@@ -17,3 +17,8 @@ data summary
 hi there: 20| winter
 hi there 123 | 2233| idk
 hope this is an acceptable format for all weather related events | 200088 | idknow whether i am just testing out these theses
+
+
+here is a video link that you all should check out before going any further with this class 
+
+[app link](https://www.youtube.com/watch?v=clMtdVNJFIE)
